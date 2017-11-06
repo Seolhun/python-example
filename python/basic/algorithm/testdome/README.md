@@ -39,3 +39,22 @@ table.record_result('Chris', 5)
 print(table.player_rank(1))
 ```
 All players have the same score. However, Arnold and Chris have played fewer games than Mike, and as Chris is before Arnold in the list of players, he is ranked first. Therefore, the code above should display "Chris".
+
+---
+#### [Path](https://www.testdome.com/for-developers/solve-question/12282?visibility=1&skillId=9&orderBy=ForDevelopers)
+Notes:
+
+- Root path is '/'.
+- Path separator is '/'.
+- Parent directory is addressable as '..'.
+- Directory names consist only of English alphabet letters (A-Z and a-z).
+- The function should support both relative and absolute paths.
+- The function will not be passed any invalid paths.
+- Do not use built-in path-related functions.
+For example:
+```python
+path = Path('/a/b/c/d')
+path.cd('../x')
+print(path.current_path)
+```
+should display '/a/b/c/x'.
