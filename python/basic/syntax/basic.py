@@ -1,15 +1,4 @@
-print('---------------------------------')
-s = 'django'
-# 'd'
-s[0]
-# 'o'
-s[5]
-# 'djan'
-s[:4]
-# 'go'
-s[4:]
-# Bonus: Use indexing to revers the string
-s[::-1]
+
 
 print('---------------------------------')
 # Given this nested list:

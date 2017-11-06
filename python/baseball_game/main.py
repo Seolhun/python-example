@@ -28,12 +28,10 @@ def check_answer(questions, answer):
     strike = 0
     ball = 0
 
-    idx1 = 0
     for idx1, num in enumerate(answer):
         if num == questions[idx1]:
             strike += 1
         else:
-            idx2 = 0
             for idx2, q in enumerate(questions):
                 if idx1 != idx2:
                     if num == q:
