@@ -2,32 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08f21be0-86d4-4b1b-9756-c5c804e06f78" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level1/HideNumbers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level1/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level1/StrangeSort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level3/GetMinSum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level3/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level4/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/JumpCase.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/Palindrom.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/algorithm/testdome/LeagueTable.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/algorithm/testdome/done/Path.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/streamlyzer/Question1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/streamlyzer/Question2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/streamlyzer/Question3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/streamlyzer/Sample.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/syntax/lambda.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/syntax/sorted.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/basic/algorithm/LeagueTable.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/python/basic/algorithm/FileOwners.py" afterPath="$PROJECT_DIR$/python/basic/algorithm/testdome/done/FileOwners.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/python/basic/algorithm/Pailndrme.py" afterPath="$PROJECT_DIR$/python/basic/algorithm/testdome/done/Pailndrme.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/python/basic/algorithm/README.md" afterPath="$PROJECT_DIR$/python/basic/algorithm/testdome/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/python/basic/syntax/example1.py" afterPath="$PROJECT_DIR$/python/basic/syntax/basic.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/python/basic/syntax/example2.py" afterPath="$PROJECT_DIR$/python/basic/syntax/ragneAndslice.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/DigitReverse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/JadenCase.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/Palindrom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/docs/Sample.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/basic/syntax/recursion.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/Palindrom.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/baseball_game/main.py" afterPath="$PROJECT_DIR$/python/baseball_game/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/README.md" afterPath="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/README.md" afterPath="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/basic/syntax/basic.py" afterPath="$PROJECT_DIR$/python/basic/syntax/basic.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,10 +24,12 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_example$LeagueTable.coverage" NAME="LeagueTable Coverage Results" MODIFIED="1509902180721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/algorithm" />
     <SUITE FILE_PATH="coverage/python_example$Question2.coverage" NAME="Question2 Coverage Results" MODIFIED="1509937586881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/streamlyzer" />
+    <SUITE FILE_PATH="coverage/python_example$JadenCase.coverage" NAME="JadenCase Coverage Results" MODIFIED="1510018389727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/algorithm/programmers/progress" />
     <SUITE FILE_PATH="coverage/python_example$Path.coverage" NAME="Path Coverage Results" MODIFIED="1509900329481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/algorithm" />
     <SUITE FILE_PATH="coverage/python_example$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1509933864210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/syntax" />
     <SUITE FILE_PATH="coverage/python_example$HideNumbers.coverage" NAME="HideNumbers Coverage Results" MODIFIED="1509944128286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/algorithm/programmers/progress" />
-    <SUITE FILE_PATH="coverage/python_example$Palindrom.coverage" NAME="Palindrom Coverage Results" MODIFIED="1509941775162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/algorithm/programmers/progress" />
+    <SUITE FILE_PATH="coverage/python_example$Palindrom.coverage" NAME="Palindrom Coverage Results" MODIFIED="1510014104797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/algorithm/programmers/progress" />
+    <SUITE FILE_PATH="coverage/python_example$DigitReverse.coverage" NAME="DigitReverse Coverage Results" MODIFIED="1510017579434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/algorithm/programmers/progress" />
     <SUITE FILE_PATH="coverage/python_example$Question1.coverage" NAME="Question1 Coverage Results" MODIFIED="1509935426348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/streamlyzer" />
     <SUITE FILE_PATH="coverage/python_example$FileOwners.coverage" NAME="FileOwners Coverage Results" MODIFIED="1509886134815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/algorithm" />
     <SUITE FILE_PATH="coverage/python_example$GetMinSum.coverage" NAME="GetMinSum Coverage Results" MODIFIED="1509941152921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/algorithm/programmers" />
@@ -51,19 +37,34 @@
     <SUITE FILE_PATH="coverage/python_example$StrangeSort.coverage" NAME="StrangeSort Coverage Results" MODIFIED="1509944516043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/algorithm/programmers/progress" />
     <SUITE FILE_PATH="coverage/python_example$1157.coverage" NAME="1157 Coverage Results" MODIFIED="1509940091875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/algorithm/baekjoon" />
     <SUITE FILE_PATH="coverage/python_example$JumpCase.coverage" NAME="JumpCase Coverage Results" MODIFIED="1509945142705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/algorithm/programmers/progress" />
+    <SUITE FILE_PATH="coverage/python_example$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1510011596733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/syntax" />
     <SUITE FILE_PATH="coverage/python_example$Question3.coverage" NAME="Question3 Coverage Results" MODIFIED="1509938409737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/streamlyzer" />
     <SUITE FILE_PATH="coverage/python_example$sorted.coverage" NAME="sorted Coverage Results" MODIFIED="1509942652140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/syntax" />
     <SUITE FILE_PATH="coverage/python_example$main.coverage" NAME="main Coverage Results" MODIFIED="1509899008337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/baseball_game" />
     <SUITE FILE_PATH="coverage/python_example$Sample.coverage" NAME="Sample Coverage Results" MODIFIED="1509934074467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/streamlyzer" />
+    <SUITE FILE_PATH="coverage/python_example$ChooseCity.coverage" NAME="ChooseCity Coverage Results" MODIFIED="1510011223570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level4" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JumpCase.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/progress/JumpCase.py">
+    <leaf>
+      <file leaf-file-name="JadenCase.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/JadenCase.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/progress/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -86,6 +87,8 @@
       <find>...</find>
       <find>lambda</find>
       <find>s</find>
+      <find>자꾸만꿈만</find>
+      <find>만꾸자</find>
     </findStrings>
     <replaceStrings>
       <replace>is_continued</replace>
@@ -103,7 +106,6 @@
         <option value="$PROJECT_DIR$/python/basic/algorithm/example1.py" />
         <option value="$PROJECT_DIR$/python/basic/algorithm/FileOwners.py" />
         <option value="$PROJECT_DIR$/python/basic/algorithm/Pailndrme.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/python/basic/algorithm/README.md" />
         <option value="$PROJECT_DIR$/python/baseball_game/main.py" />
@@ -120,9 +122,6 @@
         <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/GetMinSum.py" />
         <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/README.md" />
         <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level3/README.md" />
-        <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/README.md" />
-        <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level4/README.md" />
-        <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/Palindrom.py" />
         <option value="$PROJECT_DIR$/python/basic/syntax/example2.py" />
         <option value="$PROJECT_DIR$/python/basic/syntax/lambda.py" />
         <option value="$PROJECT_DIR$/python/basic/syntax/example1.py" />
@@ -130,10 +129,24 @@
         <option value="$PROJECT_DIR$/python/basic/syntax/sorted.py" />
         <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/HideNumbers.py" />
         <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/StrangeSort.py" />
-        <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/README.md" />
         <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level1/README.md" />
         <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level1/StrangeSort.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/JumpCase.py" />
+        <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level4/README.md" />
+        <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level4/ChooseCity.py" />
+        <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/Palindrom.py" />
+        <option value="$PROJECT_DIR$/python/basic/syntax/basic.py" />
+        <option value="$PROJECT_DIR$/python/basic/syntax/recursion.py" />
+        <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/DigitReverse.py" />
+        <option value="$PROJECT_DIR$/python/basic/docs/PythonSummaryAlgoritm.md" />
+        <option value="$PROJECT_DIR$/python/basic/docs/BasicSyntaxUsingAlgorithm2.md" />
+        <option value="$PROJECT_DIR$/python/basic/docs/Sample.md" />
+        <option value="$PROJECT_DIR$/python/basic/docs/BasicSyntaxUsingAlgorithm1.md" />
+        <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/DigitReverse.py" />
+        <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/JadenCase.py" />
+        <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/README.md" />
+        <option value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/README.md" />
       </list>
     </option>
   </component>
@@ -144,9 +157,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="798" />
+    <option name="x" value="363" />
     <option name="y" value="23" />
-    <option name="width" value="867" />
+    <option name="width" value="1302" />
     <option name="height" value="937" />
   </component>
   <component name="ProjectView">
@@ -164,8 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,12 +193,6 @@
               <item name="python-example" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-example" type="462c0819:PsiDirectoryNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="baseball_game" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-example" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -213,16 +218,6 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
               <item name="done" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-example" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="done" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-example" type="b2602c69:ProjectViewProjectNode" />
@@ -241,26 +236,6 @@
               <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="done" type="462c0819:PsiDirectoryNode" />
-              <item name="level3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-example" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="done" type="462c0819:PsiDirectoryNode" />
-              <item name="level4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-example" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="programmers" type="462c0819:PsiDirectoryNode" />
               <item name="progress" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -268,7 +243,7 @@
               <item name="python-example" type="462c0819:PsiDirectoryNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="streamlyzer" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-example" type="b2602c69:ProjectViewProjectNode" />
@@ -281,6 +256,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -289,19 +266,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level1" />
-      <recent name="$PROJECT_DIR$/python/basic/algorithm/programmers/progress" />
-      <recent name="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level3" />
-      <recent name="$PROJECT_DIR$/python/basic/algorithm/programmers" />
-      <recent name="$PROJECT_DIR$/python/basic/algorithm/testdome/done" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python/basic/docs" />
       <recent name="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level1" />
       <recent name="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level4" />
       <recent name="$PROJECT_DIR$/python/basic/algorithm/programmers/done" />
       <recent name="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2" />
-      <recent name="$PROJECT_DIR$/python/basic/algorithm/baekjoon" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2" />
+      <recent name="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level1" />
+      <recent name="$PROJECT_DIR$/python/basic/algorithm/programmers/progress" />
+      <recent name="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level3" />
+      <recent name="$PROJECT_DIR$/python/basic/algorithm/programmers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -316,26 +293,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.JumpCase">
-    <configuration name="HideNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.JadenCase">
+    <configuration name="ChooseCity" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/basic/algorithm/programmers/progress" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-example" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level1/HideNumbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level4/ChooseCity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="JumpCase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DigitReverse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -348,7 +325,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-example" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/JumpCase.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/DigitReverse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="JadenCase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/basic/algorithm/programmers/progress" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-example" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/JadenCase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -366,30 +361,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-example" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/basic/algorithm/programmers/progress/Palindrom.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/Palindrom.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="StrangeSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/basic/algorithm/programmers/progress" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-example" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/basic/algorithm/programmers/done/level1/StrangeSort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="sorted" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lambda" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -402,25 +379,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-example" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/basic/syntax/sorted.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/basic/syntax/lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Palindrom" />
-      <item index="1" class="java.lang.String" itemvalue="Python.StrangeSort" />
-      <item index="2" class="java.lang.String" itemvalue="Python.sorted" />
-      <item index="3" class="java.lang.String" itemvalue="Python.HideNumbers" />
-      <item index="4" class="java.lang.String" itemvalue="Python.JumpCase" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ChooseCity" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Palindrom" />
+      <item index="2" class="java.lang.String" itemvalue="Python.lambda" />
+      <item index="3" class="java.lang.String" itemvalue="Python.DigitReverse" />
+      <item index="4" class="java.lang.String" itemvalue="Python.JadenCase" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.JumpCase" />
-        <item index="1" class="java.lang.String" itemvalue="Python.StrangeSort" />
-        <item index="2" class="java.lang.String" itemvalue="Python.HideNumbers" />
-        <item index="3" class="java.lang.String" itemvalue="Python.sorted" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Palindrom" />
+        <item index="0" class="java.lang.String" itemvalue="Python.JadenCase" />
+        <item index="1" class="java.lang.String" itemvalue="Python.DigitReverse" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Palindrom" />
+        <item index="3" class="java.lang.String" itemvalue="Python.lambda" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ChooseCity" />
       </list>
     </recent_temporary>
   </component>
@@ -441,7 +418,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="798" y="23" width="867" height="937" extended-state="0" />
+    <frame x="363" y="23" width="1302" height="937" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -449,10 +426,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2318339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2219662" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -483,7 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -491,9 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -502,20 +475,12 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="300">
             <caret line="20" column="79" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="79" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python/basic/package.json" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -537,7 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="1313" column="0" lean-forward="false" selection-start-line="1313" selection-start-column="0" selection-end-line="1313" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -545,7 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -553,7 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -561,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -570,7 +531,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="97">
             <caret line="20" column="79" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="79" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -580,7 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -588,26 +547,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/basic/algorithm/baekjoon/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic/algorithm/baekjoon/README.md" />
     <entry file="file://$PROJECT_DIR$/python/basic/streamlyzer/Question1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -615,9 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -625,7 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -633,34 +576,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/basic/algorithm/baekjoon/1157.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic/algorithm/baekjoon/1157.py" />
     <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/done/level3/GetMinSum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -669,41 +592,8 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="165">
             <caret line="11" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="10" />
-            <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/basic/syntax/basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/basic/syntax/sorted.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/basic/syntax/ragneAndslice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/basic/syntax/lambda.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -715,30 +605,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/done/level1/StrangeSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/done/level1/HideNumbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/progress/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -747,36 +617,163 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="195">
             <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/progress/Palindrom.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/done/level4/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/done/level1/StrangeSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/done/level4/ChooseCity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic/syntax/sorted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic/syntax/recursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic/syntax/ragneAndslice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic/syntax/lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/Palindrom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic/syntax/basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-1645354321/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="3571" column="19" lean-forward="true" selection-start-line="3571" selection-start-column="19" selection-end-line="3571" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic/docs/BasicSyntaxUsingAlgorithm1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="298">
+            <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic/docs/Sample.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/DigitReverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="46" lean-forward="true" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/progress/JumpCase.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        <state relative-caret-position="195">
+          <caret line="13" column="63" lean-forward="true" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/JadenCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/done/level2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/basic/algorithm/programmers/progress/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
