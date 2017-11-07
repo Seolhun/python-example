@@ -1,5 +1,3 @@
-
-
 print('---------------------------------')
 # Given this nested list:
 l = [3, 7, [1, 4, 'hello']]
